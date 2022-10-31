@@ -1,2 +1,24 @@
-# Calendário da Monitoria 
-Um website contendo os horários de todos os monitores do IFAL para facilitar a comunicação com os alunos. 
+# website
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
